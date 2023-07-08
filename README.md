@@ -1,0 +1,1 @@
+HTML ve CSS kullanarak, eski Google tarama motorunun görünümünü temel alarak bir çalışma gerçekleştirdim.
